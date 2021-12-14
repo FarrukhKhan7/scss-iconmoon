@@ -1,0 +1,35 @@
+//===========================================
+// -Variables start
+//===========================================
+
+// Colors start
+
+// define your vars or override bootstrap vars
+$default: red;
+$primary: #F5F6FA;
+$secondary: #0C39DA;
+$tertiary : #E53535;
+$grey1 : #B5BFE0;
+$grey2 : #838BA7;
+$primary-light : #E1E6F3;
+$grey3: #8888AC;
+$success-light: #15B2AC;
+$grey4: #6B6B95;
+$secondary-dark: #1F1F41;
+
+
+
+
+// define your Break Points or override bootstrap Break Points
+$grid-breakpoints: (xs: 365px,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  ml: 1100px,
+  xl: 1200px,
+  xxl: 1368px,
+);
+
+// ===========================================
+// -Variables end
+// ===========================================
